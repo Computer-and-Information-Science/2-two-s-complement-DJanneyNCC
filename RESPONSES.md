@@ -39,8 +39,8 @@ DDFFFF00 - Negative
 
 ```
 Hola Mundo! = 48 6f 6c 61 20 4d 75 6e 64 6f 21
-#comporg = 
-3.14159 = 
-F=(9.0/5)*C+32 = 
-AaBbCcDd = 
+#comporg = 23 63 6f 6d 70 6f 72 67
+3.14159 = 33 2e 31 34 31 35 39
+F=(9.0/5)*C+32 = 46 3d 28 39 2e 30 2f 35 29 2a 43 2b 33 32
+AaBbCcDd = 41 61 42 62 43 63 44 64
 ```
