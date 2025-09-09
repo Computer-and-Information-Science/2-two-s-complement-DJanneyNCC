@@ -35,12 +35,12 @@ DDFFFF00 - Negative
 84FDC2AA - Negative
 ```
 
-## Problem 4 - Responses
+## Problem 4 - Responses (to hex)
 
 ```
-Hola Mundo! =
-#comporg =
-3.14159 =
-F=(9.0/5)*C+32 =
-AaBbCcDd =
+Hola Mundo! = 48 6f 6c 61 20 4d 75 6e 64 6f 21
+#comporg = 
+3.14159 = 
+F=(9.0/5)*C+32 = 
+AaBbCcDd = 
 ```
