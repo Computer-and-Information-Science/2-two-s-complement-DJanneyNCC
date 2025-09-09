@@ -13,11 +13,11 @@
 ## Problem 2 - Responses
 
 ```
-4B =
-F0 =
-8D =
-EE =
-AF =
+4B = 75
+F0 = -16
+8D = n
+EE = n
+AF = n
 ```
 
 ## Problem 3 - Responses
