@@ -23,16 +23,16 @@ AF =
 ## Problem 3 - Responses
 
 ```
-4A39FD31 -
-E3BCC76F -
-6EDDC428 -
-9C662DEB -
-A000FFFF -
-BBAA0000 -
-7FFFFFFF -
-FFFF0000 -
-DDFFFF00 -
-84FDC2AA -
+4A39FD31 - Positive
+E3BCC76F - Negative
+6EDDC428 - Positive
+9C662DEB - Negative
+A000FFFF - Negative
+BBAA0000 - Negative
+7FFFFFFF - Positive
+FFFF0000 - Negative
+DDFFFF00 - Negative
+84FDC2AA - Negative
 ```
 
 ## Problem 4 - Responses
